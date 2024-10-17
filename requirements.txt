@@ -1,0 +1,8 @@
+PyPDF2
+pymongo
+spacy 
+transformers 
+torch 
+nltk
+concurrent-log-handler
+requests
