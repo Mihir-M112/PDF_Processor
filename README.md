@@ -25,8 +25,8 @@ This repository contains a custom PDF processing pipeline designed to process mu
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/Mihir-M112/wasserstoff-AI-Intern-Task.git
-   cd wasserstoff-AI-Intern-Task
+   git clone https://github.com/Mihir-M112/pdf_processor.git
+   cd pdf_processor
    ```
 
 
